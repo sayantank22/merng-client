@@ -31,12 +31,13 @@ function Home() {
               <div class='ui raised segment'>
                 <div class='ui placeholder'>
                   <div class='image header'>
-                    <div class='line'></div>
-                    <div class='line'></div>
+                    <div class='very short line'></div>
+                    <div class='short line'></div>
+                    <div class='mdeuim line'></div>
                   </div>
                   <div class='paragraph'>
-                    <div class='medium line'></div>
-                    <div class='short line'></div>
+                    <div class='meduim line'></div>
+                    <div class='full line'></div>
                   </div>
                 </div>
               </div>
@@ -45,12 +46,13 @@ function Home() {
               <div class='ui raised segment'>
                 <div class='ui placeholder'>
                   <div class='image header'>
-                    <div class='line'></div>
-                    <div class='line'></div>
+                    <div class='very short line'></div>
+                    <div class='short line'></div>
+                    <div class='mdeuim line'></div>
                   </div>
                   <div class='paragraph'>
-                    <div class='medium line'></div>
-                    <div class='short line'></div>
+                    <div class='meduim line'></div>
+                    <div class='full line'></div>
                   </div>
                 </div>
               </div>
@@ -59,12 +61,13 @@ function Home() {
               <div class='ui raised segment'>
                 <div class='ui placeholder'>
                   <div class='image header'>
-                    <div class='line'></div>
-                    <div class='line'></div>
+                    <div class='very short line'></div>
+                    <div class='short line'></div>
+                    <div class='mdeuim line'></div>
                   </div>
                   <div class='paragraph'>
-                    <div class='medium line'></div>
-                    <div class='short line'></div>
+                    <div class='meduim line'></div>
+                    <div class='full line'></div>
                   </div>
                 </div>
               </div>
@@ -73,12 +76,13 @@ function Home() {
               <div class='ui raised segment'>
                 <div class='ui placeholder'>
                   <div class='image header'>
-                    <div class='line'></div>
-                    <div class='line'></div>
+                    <div class='very short line'></div>
+                    <div class='short line'></div>
+                    <div class='mdeuim line'></div>
                   </div>
                   <div class='paragraph'>
-                    <div class='medium line'></div>
-                    <div class='short line'></div>
+                    <div class='meduim line'></div>
+                    <div class='full line'></div>
                   </div>
                 </div>
               </div>
@@ -87,12 +91,13 @@ function Home() {
               <div class='ui raised segment'>
                 <div class='ui placeholder'>
                   <div class='image header'>
-                    <div class='line'></div>
-                    <div class='line'></div>
+                    <div class='very short line'></div>
+                    <div class='short line'></div>
+                    <div class='mdeuim line'></div>
                   </div>
                   <div class='paragraph'>
-                    <div class='medium line'></div>
-                    <div class='short line'></div>
+                    <div class='meduim line'></div>
+                    <div class='full line'></div>
                   </div>
                 </div>
               </div>
@@ -101,12 +106,13 @@ function Home() {
               <div class='ui raised segment'>
                 <div class='ui placeholder'>
                   <div class='image header'>
-                    <div class='line'></div>
-                    <div class='line'></div>
+                    <div class='very short line'></div>
+                    <div class='short line'></div>
+                    <div class='mdeuim line'></div>
                   </div>
                   <div class='paragraph'>
-                    <div class='medium line'></div>
-                    <div class='short line'></div>
+                    <div class='meduim line'></div>
+                    <div class='full line'></div>
                   </div>
                 </div>
               </div>
@@ -115,12 +121,13 @@ function Home() {
               <div class='ui raised segment'>
                 <div class='ui placeholder'>
                   <div class='image header'>
-                    <div class='line'></div>
-                    <div class='line'></div>
+                    <div class='very short line'></div>
+                    <div class='short line'></div>
+                    <div class='mdeuim line'></div>
                   </div>
                   <div class='paragraph'>
-                    <div class='medium line'></div>
-                    <div class='short line'></div>
+                    <div class='meduim line'></div>
+                    <div class='full line'></div>
                   </div>
                 </div>
               </div>
@@ -129,12 +136,13 @@ function Home() {
               <div class='ui raised segment'>
                 <div class='ui placeholder'>
                   <div class='image header'>
-                    <div class='line'></div>
-                    <div class='line'></div>
+                    <div class='very short line'></div>
+                    <div class='short line'></div>
+                    <div class='mdeuim line'></div>
                   </div>
                   <div class='paragraph'>
-                    <div class='medium line'></div>
-                    <div class='short line'></div>
+                    <div class='meduim line'></div>
+                    <div class='full line'></div>
                   </div>
                 </div>
               </div>

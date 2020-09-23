@@ -51,17 +51,29 @@ function SinglePost(props) {
   let postMarkup;
   if (!getPost) {
     postMarkup = (
-      <div class='ui fluid placeholder'>
-        <div class='image header'>
-          <div class='line'></div>
-          <div class='line'></div>
-        </div>
-        <div class='paragraph'>
-          <div class='line'></div>
-          <div class='line'></div>
-          <div class='line'></div>
-        </div>
-      </div>
+      <Grid>
+        <Grid.Row>
+          <Grid.Column width={2}>
+            <div class='ui placeholder'>
+              <div class='image'></div>
+            </div>
+          </Grid.Column>
+          <Grid.Column width={10}>
+            <Card fluid>
+              <Card.Content>
+                <div class='ui fluid placeholder'>
+                  <div class='very short line'></div>
+                  <div class='short line'></div>
+                  <div class='paragraph'>
+                    <div class='line'></div>
+                    <div class='full line'></div>
+                  </div>
+                </div>
+              </Card.Content>
+            </Card>
+          </Grid.Column>
+        </Grid.Row>
+      </Grid>
     );
   } else {
     const {

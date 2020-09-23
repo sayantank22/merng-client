@@ -25,3 +25,6 @@
 [0922/225252.691:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
 [0922/225252.721:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
 [0922/225252.723:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Easthas\Reports\Dump: The system cannot find the path specified. (0x3)
+[0923/035430.142:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Easthas\Reports\Dump: The system cannot find the path specified. (0x3)
+[0923/035430.175:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0923/035430.177:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Easthas\Reports\Dump: The system cannot find the path specified. (0x3)

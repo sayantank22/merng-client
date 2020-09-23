@@ -50,7 +50,19 @@ function SinglePost(props) {
 
   let postMarkup;
   if (!getPost) {
-    postMarkup = <p>Loading post...</p>;
+    postMarkup = (
+      <div class='ui fluid placeholder'>
+        <div class='image header'>
+          <div class='line'></div>
+          <div class='line'></div>
+        </div>
+        <div class='paragraph'>
+          <div class='line'></div>
+          <div class='line'></div>
+          <div class='line'></div>
+        </div>
+      </div>
+    );
   } else {
     const {
       id,

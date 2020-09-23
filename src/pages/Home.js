@@ -26,7 +26,120 @@ function Home() {
           </Grid.Column>
         )}
         {loading ? (
-          <h2>Loading posts...</h2>
+          <>
+            <Grid.Column style={{ marginBottom: 20 }}>
+              <div class='ui raised segment'>
+                <div class='ui placeholder'>
+                  <div class='image header'>
+                    <div class='line'></div>
+                    <div class='line'></div>
+                  </div>
+                  <div class='paragraph'>
+                    <div class='medium line'></div>
+                    <div class='short line'></div>
+                  </div>
+                </div>
+              </div>
+            </Grid.Column>
+            <Grid.Column style={{ marginBottom: 20 }}>
+              <div class='ui raised segment'>
+                <div class='ui placeholder'>
+                  <div class='image header'>
+                    <div class='line'></div>
+                    <div class='line'></div>
+                  </div>
+                  <div class='paragraph'>
+                    <div class='medium line'></div>
+                    <div class='short line'></div>
+                  </div>
+                </div>
+              </div>
+            </Grid.Column>
+            <Grid.Column style={{ marginBottom: 20 }}>
+              <div class='ui raised segment'>
+                <div class='ui placeholder'>
+                  <div class='image header'>
+                    <div class='line'></div>
+                    <div class='line'></div>
+                  </div>
+                  <div class='paragraph'>
+                    <div class='medium line'></div>
+                    <div class='short line'></div>
+                  </div>
+                </div>
+              </div>
+            </Grid.Column>
+            <Grid.Column style={{ marginBottom: 20 }}>
+              <div class='ui raised segment'>
+                <div class='ui placeholder'>
+                  <div class='image header'>
+                    <div class='line'></div>
+                    <div class='line'></div>
+                  </div>
+                  <div class='paragraph'>
+                    <div class='medium line'></div>
+                    <div class='short line'></div>
+                  </div>
+                </div>
+              </div>
+            </Grid.Column>
+            <Grid.Column style={{ marginBottom: 20 }}>
+              <div class='ui raised segment'>
+                <div class='ui placeholder'>
+                  <div class='image header'>
+                    <div class='line'></div>
+                    <div class='line'></div>
+                  </div>
+                  <div class='paragraph'>
+                    <div class='medium line'></div>
+                    <div class='short line'></div>
+                  </div>
+                </div>
+              </div>
+            </Grid.Column>
+            <Grid.Column style={{ marginBottom: 20 }}>
+              <div class='ui raised segment'>
+                <div class='ui placeholder'>
+                  <div class='image header'>
+                    <div class='line'></div>
+                    <div class='line'></div>
+                  </div>
+                  <div class='paragraph'>
+                    <div class='medium line'></div>
+                    <div class='short line'></div>
+                  </div>
+                </div>
+              </div>
+            </Grid.Column>
+            <Grid.Column style={{ marginBottom: 20 }}>
+              <div class='ui raised segment'>
+                <div class='ui placeholder'>
+                  <div class='image header'>
+                    <div class='line'></div>
+                    <div class='line'></div>
+                  </div>
+                  <div class='paragraph'>
+                    <div class='medium line'></div>
+                    <div class='short line'></div>
+                  </div>
+                </div>
+              </div>
+            </Grid.Column>
+            <Grid.Column style={{ marginBottom: 20 }}>
+              <div class='ui raised segment'>
+                <div class='ui placeholder'>
+                  <div class='image header'>
+                    <div class='line'></div>
+                    <div class='line'></div>
+                  </div>
+                  <div class='paragraph'>
+                    <div class='medium line'></div>
+                    <div class='short line'></div>
+                  </div>
+                </div>
+              </div>
+            </Grid.Column>
+          </>
         ) : (
           <Transition.Group>
             {posts &&
